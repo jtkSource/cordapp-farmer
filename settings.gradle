@@ -1,0 +1,3 @@
+rootProject.name = 'cordapp-farmer'
+include 'contracts'
+include 'workflows'
